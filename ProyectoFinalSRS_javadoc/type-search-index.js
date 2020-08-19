@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"practica7srs","l":"Practica10SRS"},{"p":"practica7srs","l":"VentanaInterna"},{"p":"practica7srs","l":"VentanaInternaCamara"},{"p":"practica7srs","l":"VentanaInternaVideo"},{"p":"practica7srs","l":"VentanaPrincipal"}]
